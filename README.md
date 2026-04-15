@@ -1,72 +1,123 @@
 # Hi, I'm Nipuna Dilshan 👋
 
-A passionate Software Engineer focused on building modern mobile and web applications.
-
-I enjoy turning ideas into real products using clean code and scalable architecture.
+<p align="left">
+Flutter Developer | Software Engineering Student | Aspiring Full-Stack Mobile Engineer
+</p>
 
 ---
 
-## 💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Software Engineering undergraduate
-- 📱 Flutter Mobile App Developer
-- 🌐 Web Developer (WordPress, HTML, CSS, basic JavaScript)
-- ⚙️ Exploring full-stack development and SaaS systems
-- 🚀 Interested in building real-world tech products
-- 🇬🇧 Goal: Build a career in the UK tech industry
+- 📱 Flutter mobile application developer
+- 🌐 Basic web development experience (HTML, CSS, JavaScript)
+- ⚙️ Focused on Flutter + Firebase ecosystem
+- 🤖 Interested in AI and automation for real-world apps
+- 🚀 Building SaaS and scalable mobile applications
+- 🌍 Open to global software development opportunities
+
+---
+
+## 🧠 What I Do
+
+I focus on building **cross-platform mobile applications** using Flutter,  
+with clean UI, scalable architecture, and real-world functionality.
+
+I enjoy turning ideas into practical digital products.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile Development**
-- Flutter
-- Dart
-
-**Frontend**
-- HTML
-- CSS
-- Basic JavaScript
-
-**Backend (Learning Phase)**
-- Firebase
-- Node.js (learning)
-- Spring Boot (future plan)
-
-**Tools**
-- Git & GitHub
-- VS Code
-- Figma
+### ⭐ Core Skills (Main Focus)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
 
 ---
 
-## 📈 Current Focus
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+</p>
 
-- Improving Flutter development skills
-- Learning full-stack development
-- Building SaaS and real-world projects
-- Strengthening problem-solving skills
-- Improving English communication for global opportunities
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql" />
+</p>
+
+---
+
+### ☁️ Cloud / Services
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
+
+---
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+</p>
+
+---
+
+### ⚙️ Other Interests
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicodilshan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicodilshan&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodilshan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Mastering Flutter UI & architecture
+- Building real-world mobile applications
+- Improving Firebase backend integration
+- Learning scalable app design patterns
+- Exploring AI + automation concepts
 
 ---
 
 ## 🚀 Goals
 
-- Build and launch my own SaaS product
-- Work with international clients (UK focused)
-- Become a full-stack mobile + web developer
-- Grow a strong personal developer brand
+- Become a strong Flutter developer
+- Build and launch SaaS mobile applications
+- Work on international freelance / remote projects
+- Grow a strong developer brand
+- Continuously improve problem-solving skills
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username
-- LinkedIn: (add your LinkedIn link here)
-- Portfolio: (add when ready)
+<p>
+  <a href="https://github.com/nicodilshan">GitHub</a> •
+  <a href="www.linkedin.com/in/ndilshan/">LinkedIn</a> •
+  Portfolio (coming soon)
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Note
 
-I enjoy building apps that solve real problems and learning new technologies every day.
+I focus on building real-world mobile applications with Flutter and continuously improving as a developer.
+
