@@ -74,15 +74,7 @@ I enjoy turning ideas into practical digital products.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicodilshan&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicodilshan&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodilshan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
